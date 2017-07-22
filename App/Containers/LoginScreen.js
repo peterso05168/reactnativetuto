@@ -7,6 +7,7 @@ export default class LoginScreen extends Component {
   render () {
     return (
       <View>
+      
         <Login />
       </View>
     )

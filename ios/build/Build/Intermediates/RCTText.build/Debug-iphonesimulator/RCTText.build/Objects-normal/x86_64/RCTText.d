@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/pat/Documents/React-native/Test/node_modules/react-native/Libraries/Text/RCTText.m \
+  /Users/pat/Documents/React-native/Test/node_modules/react-native/Libraries/Text/RCTText.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/pat/Documents/React-native/Test/node_modules/react-native/Libraries/Text/RCTShadowText.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/pat/Documents/React-native/Test/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
